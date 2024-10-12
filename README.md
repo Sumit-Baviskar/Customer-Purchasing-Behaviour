@@ -1,4 +1,4 @@
-#  :chart_with_upwards_trend:Customer Purchasing Behaviour  :chart_with_upwards_trend:
+#  :chart_with_upwards_trend:Customer Purchasing Behaviour Detection :chart_with_upwards_trend:
 Customer Purchasing Behaviour Analysis Project (Statistics Project)
 
 # :green_book: **Introduction :** :green_book:
