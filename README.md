@@ -1,4 +1,4 @@
-# 📈 Customer Purchasing Behaviour Detection 📈
+# 📈 Customer Buying Habits Analysis 📈
 
 
 # 🛒 **Problem Statement:** 🛒  
